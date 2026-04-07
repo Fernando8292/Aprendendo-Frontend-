@@ -61,7 +61,7 @@
         <h1>Fernando Toledo de Oliveira</h1>
 
     <!-- SUA FOTO -->     
-<img src="minha-foto.jpg" alt="[Foto de Fernando](https://github.com/user-attachments/assets/1f7ab9f5-556f-418a-b22c-4a2e32c8c63f)">
+<img src="minha-foto.jpg"(https://github.com/user-attachments/assets/1f7ab9f5-556f-418a-b22c-4a2e32c8c63f)">
     </div>
 
     <!-- Div 2 -->
